@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PaisiosKarpouchtsis
+- 👀 I’m interested in Computer Science studies
+- 🌱 I’m currently learning C, Java and Python.
+- 💞️ I’m looking to collaborate on Python.
+- 📫 How to reach me: Text me on my Instagram:'paisios_karp' the word "i_am_from_github" and I will answer you as fast as possible. 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am studying in Thessaloniki and I love to travel.
